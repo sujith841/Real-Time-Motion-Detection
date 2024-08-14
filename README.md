@@ -13,11 +13,6 @@ This project leverages **OpenCV** to process video frames in real-time, detect m
 - **Multi-threaded Alarm System**: The alert system runs on a separate thread to ensure it doesn't interfere with the main video processing.
 - **User Control**: Easily toggle the alarm mode and exit the program with simple key presses.
 
-## 🛠️ Installation
-
-To get started with the project, clone the repository and install the necessary dependencies:
-
-```bash
-git clone https://github.com/yourusername/motion-detection-alert-system.git
-cd motion-detection-alert-system
-pip install -r requirements.txt
+To get start 
+  press t to monitor the motion and disconnect 
+  press q to exit
