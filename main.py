@@ -25,6 +25,7 @@ def beep_alarm():
     print("Somthing is moving")
     winsound.Beep(2500,1000)
   alarm_mode = False
+  alarm = False
 
 while True:
   _,frame = cap.read()
